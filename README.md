@@ -1,6 +1,6 @@
 # Puppet Automation for User Management and LAMP Stack
 
-This repository contains Puppet manifests for automating user management and deploying a LAMP stack server environment.
+This repository contains Puppet manifests for automating user management and deploying a LAMP stack server environment.  
 
 ## Files
 - **server_users_groups.pp**: Defines user accounts and group memberships on the server.
